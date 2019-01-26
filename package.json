@@ -1,0 +1,26 @@
+{
+  "name": "snp2",
+  "version": "1.0.0",
+  "description": "api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guerrammax/snp2.git"
+  },
+  "author": "MAX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guerrammax/snp2/issues"
+  },
+  "homepage": "https://github.com/guerrammax/snp2#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "cryptr": "^4.0.2",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1"
+  }
+}
